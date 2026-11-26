@@ -1,0 +1,6 @@
+{
+  "name": "SIBUDI — Sistem Pembinaan Disiplin & Prestasi Siswa",
+  "description": "Platform terintegrasi pencatatan pelanggaran dan prestasi siswa, dashboard pemantauan perilaku real-time, rekomendasi penindakan disiplin, portal orang tua, notifikasi otomatis, laporan bulanan, dan penerbitan surat panggilan BK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
